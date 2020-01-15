@@ -16,16 +16,27 @@ Uma solução baseada em Microserviços, desde catalogação de animais, doeçna
 
 O projeto é conceitual, e aberto a arquitetura de quem vai implementar. Portanto o hardware pode ser controlado com PIC sem problemas, desde que se atinja o objetivo proposto. A ideia é que cada um implemente em sua região conforme tecnologia e recursos que tiver.
 
-## O Quipamento poderá ser roubado
+## O Equipamento poderá ser roubado
 
 Sim é um problema que cada implantador irá infrentar, por isso sugiro que sejam instalados inicialmente em portas de empresas, ou entidades como Universidades, perto de Cameras de Vigilância assim podem ser monitorado, no futuro o proprio equipamento pode ter seu proprio sistema de filmagem, tanto registrando o comportamento do PET como também o que ocorre na circunvizinhança reduzindo a perda no caso de roubo, (evitar a tentativa de roubo acredito que seja impossível).
+
+## Como detectar os Pets?
+
+A detecção deve ser feita via chip, cada PET cadastado deve receber um chip de RFID que será inserido sobre a pele, prática já adotada por vários cuidadores e entidades de proteção.
+
+Com o desenvolver do projeto pesquisas de identificação podem ser desenvolvidas sobre o de padrão de manchas do pelo.
+
+## Posso usar o projeto no meu TCC, Dissertação ou Tese?
+
+Claro que pode, e pedimos que faça isso. Assim você pode nos  ajudar a tornar o projeto cada vez melhor.
 
 ## Comedouro Inicial
 
 ![Comedouro e Bebedouro Inicial de Referência](bebedouro_comedouro.jpg)
 
 ## Mascote do Projeto
-Veja a história da Cachorrinha clicando aqui.
+
+Veja a história da [Cachorrinha clicando aqui](http://carlosdelfino.eti.br/projetos/Street_Pet/).
 
 ![Mascote](./streetpet.jpg)
 
