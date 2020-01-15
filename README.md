@@ -16,6 +16,15 @@ Uma solução baseada em Microserviços, desde catalogação de animais, doeçna
 
 Sim é um problema que cada implantador irá infrentar, por isso sugiro que sejam instalados inicialmente em portas de empresas, ou entidades como Universidades, perto de Cameras de Vigilância assim podem ser monitorado, no futuro o proprio equipamento pode ter seu proprio sistema de filmagem, tanto registrando o comportamento do PET como também o que ocorre na circunvizinhança reduzindo a perda no caso de roubo, (evitar a tentativa de roubo acredito que seja impossível).
 
+## Comedouro Inicial
+
+![Comedouro e Bebedouro Inicial de Referência](bebedouro_comedouro.jpg)
+
+## Mascote do Projeto
+Veja a história da Cachorrinha clicando aqui.
+
+![Mascote](./streetpet.jpg)
+
 ## Borrifadores
 
 * https://produto.mercadolivre.com.br/MLB-868267937-motor-bomba-diafragma-12v-22ah-80-psi-pulverizador-eletrico-_JM?quantity=1#reco_item_pos=2&reco_backend=machinalis-seller-items&reco_backend_type=low_level&reco_client=vip-seller_items-above&reco_id=5875c740-a0b0-4bf1-a229-980914c14690
