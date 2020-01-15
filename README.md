@@ -12,6 +12,10 @@ O Importante é que a API de intercomunicação seja baseada em REST de forma qu
 
 Uma solução baseada em Microserviços, desde catalogação de animais, doeçnas e outros dados de forma que possam ser cruzados e gerar informações relevantes ao funcionamento do sistema.
 
+## Qual Arquitetura de Hardware será usado nos controladores?
+
+O projeto é conceitual, e aberto a arquitetura de quem vai implementar. Portanto o hardware pode ser controlado com PIC sem problemas, desde que se atinja o objetivo proposto. A ideia é que cada um implemente em sua região conforme tecnologia e recursos que tiver.
+
 ## O Quipamento poderá ser roubado
 
 Sim é um problema que cada implantador irá infrentar, por isso sugiro que sejam instalados inicialmente em portas de empresas, ou entidades como Universidades, perto de Cameras de Vigilância assim podem ser monitorado, no futuro o proprio equipamento pode ter seu proprio sistema de filmagem, tanto registrando o comportamento do PET como também o que ocorre na circunvizinhança reduzindo a perda no caso de roubo, (evitar a tentativa de roubo acredito que seja impossível).
