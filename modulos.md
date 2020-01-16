@@ -1,4 +1,4 @@
-Módulos Conceitual do Projeto
+Módulos Conceituais do Projeto
 =============================
 
 ## Comedouro Inicial
