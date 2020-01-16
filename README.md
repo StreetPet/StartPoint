@@ -36,7 +36,7 @@ Claro que pode, e pedimos que faça isso. Assim você pode nos  ajudar a tornar 
 
 ## Mascote do Projeto
 
-Veja a história da [Cachorrinha clicando aqui](http://carlosdelfino.eti.br/projetos/Street_Pet/).
+Veja a história da [Cachorrinha clicando aqui](http://carlosdelfino.eti.br/projetos/StreetPet/).
 
 ![Mascote](./streetpet.jpg)
 
