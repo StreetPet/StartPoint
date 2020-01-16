@@ -1,6 +1,10 @@
 Módulos Conceituais do Projeto
 =============================
 
+## API
+
+[Para detalhes da API click aqui.](./API.md)
+
 ## Comedouro Inicial
 
 ![Comedouro e Bebedouro Inicial de Referência](bebedouro_comedouro.jpg)
