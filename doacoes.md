@@ -1,6 +1,8 @@
 Doações para o projeto
 ======================
 
+Não Doe Dinheiro pra o Projeto, faremos as caminhas de arrecadações por ferramentas apropriadas.
+
 Se você realmente quer fazer uma doação para o projeto é muito simples, nos envie material como:
 
 * Motores de Passos
