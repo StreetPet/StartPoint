@@ -19,6 +19,10 @@ Então vai ai o link do grupo no Whatsapp: [http://bit.ly/streetpet_zap](http://
 
 Não, cada um pode criar seu próprio repositório em sua conta ou organização e cita que é parte de nosso projeto, basta abrir um [issue](http://bit.ly/streetpet_sugestoes) informando que iniciou um módulo que é parte de nosso projeto, eu irei clona-lo na [Organização principal](http://bit.ly/streetpetorg) e como subtree no repositório principal StreetPet.
 
+## Porque o projeto está no seu usuário enão na organização?
+
+O projeto foi iniciado em meu uusário, não existia a organização e eu não sabia se teria aceitação da comunidade, acabei antecipando a criação da Organização pois percebi que haviam muitas visitas e muitos clones, muito mais do que os que buscam se comunicar comigo, assim, logo que o projeto tomar forma e começar a se movimentar de forma mais autonoma, migro o repositório para sua própria organziação.
+
 ## Qual Linguagem será usada?
 
 Não iremos restringir a linguagem, a quele que quiser criar ou recriar na linguagem que se sente a vontade basta criar um projeto no git e sitar nossa ORG como sendo a base do projeto, faremos um fork, e se você quiser seu projeto passa a ser editado apartir de nosso repositório.
