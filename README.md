@@ -20,9 +20,9 @@ Veja a história da [Cachorrinha clicando aqui](http://carlosdelfino.eti.br/proj
 
 ## Números do Projeto
 
-[Anotações, estatísticas e conclusões](./NUMEROS.md).
+[Anotações, estatísticas e conclusões](./numeros.md).
 
 ## Arquitetura do Sistema
 
 * [API](./API.md)
-* [Módulos](./MODULOS.md)
+* [Módulos](./modulos.md)
