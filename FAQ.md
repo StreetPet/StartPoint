@@ -15,14 +15,6 @@ Bem, eu não pretendia criar grupos, mas percebi que o pessoal está bastante ac
 
 Então vai ai o link do grupo no Whatsapp: [http://bit.ly/streetpet_zap](http://bit.ly/streetpet_zap)
 
-## Quanto você vai me pagar para trabalhar para você?
-
-Antes de tudo o projeto não é meu e você não vai trabalhar para mim. 
-
-Eu lancei uma semente e algumas pessoas do meu circulo social e profissional gostaram da ideia, então estou doando a comunidade a ideia para que ela seja replicada e executada, apenas estou gerenciando seu acontecimento. E claro fazendo minha parte para que tenha uma replica de tudo aqui na minha região como proponho para outros fazerem na suas regiões.
-
-**Você irá _ganhar_ muito trabalhando neste projeto, irá ganhar _muito conhecimento_, _muita experiência_**, e poderá até ganhar basta fazer seu plano de negocios do projeto e ver as [regras de monetização do nosso projeto](./monetizacao.md).
-
 ## Qual Linguagem será usada?
 
 Não iremos restringir a linguagem, a quele que quiser criar ou recriar na linguagem que se sente a vontade basta criar um projeto no git e sitar nossa ORG como sendo a base do projeto, faremos um fork, e se você quiser seu projeto passa a ser editado apartir de nosso repositório.
@@ -30,6 +22,14 @@ Não iremos restringir a linguagem, a quele que quiser criar ou recriar na lingu
 O Importante é que a API de intercomunicação seja baseada em REST de forma que haja um padrão quanto ao modelo de dados e procedimetnos remotos. 
 
 Uma solução baseada em Microserviços, desde catalogação de animais, doeçnas e outros dados de forma que possam ser cruzados e gerar informações relevantes ao funcionamento do sistema.
+
+## Porque dividir o projeto em módulos?
+
+O projeto é dividido em módulos exatamente para que cada um possa se deicar o que mais lhe interessa, porém, todos os módulos deverão conversar pelo menos com o  módulo principal que será nossa API, este modúlo usará Rest permitindo assim a troca fácil em qualquer linguagem de programação.
+
+Quando modularizado e fragmentado for o sistema melhor, o importante agora é que cada um se envolva com o que lhe agradar e lhe motivar a estar no projeto. Depois cada módulo poderá e conquistando novos membros e engordar seus recursos, talvez até encampando outros módulos.
+
+É fundamental que todos os módulso usem sempre o mesmo UUID para identficar o objeto principal que trabalha. Veja mais detalhes em [API](./API.md)
 
 ## Qual Arquitetura de Hardware será usado nos controladores?
 
@@ -45,6 +45,10 @@ A detecção deve ser feita via chip, cada PET cadastado deve receber um chip de
 
 Com o desenvolver do projeto pesquisas de identificação podem ser desenvolvidas sobre o de padrão de manchas do pelo.
 
+### Posso usar o ESP-cam?
+
+Sim você pode desenvolver um submodulo para o módulo de detecção para usar o ESP-cam, assim você os recursos bases do módulo para se comunicar com a API central e usa o ESP-cam conforme seu domínio e demanda regional e outros colegas.
+
 ## Posso usar o projeto no meu TCC, Dissertação ou Tese?
 
 Claro que pode, e pedimos que faça isso. Assim você pode nos  ajudar a tornar o projeto cada vez melhor.
@@ -52,6 +56,14 @@ Claro que pode, e pedimos que faça isso. Assim você pode nos  ajudar a tornar 
 ## Como você vai sustentar o projeto?
 
 O projeto não visa lucro diretamente, portanto para ser executado, cada envolvido terá que arcar com seus custos. Quando ouver uma demanda por terceiros, cada voluntário na região onde será implantado deverá negociar os custos envolvidos.
+
+## Quanto você vai me pagar para trabalhar para você?
+
+Antes de tudo o projeto não é meu e você não vai trabalhar para mim. 
+
+Eu lancei uma semente e algumas pessoas do meu circulo social e profissional gostaram da ideia, então estou doando a comunidade a ideia para que ela seja replicada e executada, apenas estou gerenciando seu acontecimento. E claro fazendo minha parte para que tenha uma replica de tudo aqui na minha região como proponho para outros fazerem na suas regiões.
+
+**Você irá _ganhar_ muito trabalhando neste projeto, irá ganhar _muito conhecimento_, _muita experiência_**, e poderá até ganhar basta fazer seu plano de negocios do projeto e ver as [regras de monetização do nosso projeto](./monetizacao.md).
 
 ## Eu posso cobrar pelos meus serviços?
 
