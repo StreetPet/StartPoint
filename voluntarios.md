@@ -18,9 +18,6 @@ Apoio tecnológico Maker
 
 * [Repositório Git](https://github.com/seugualda)
 
-## Lucas Souza
+## Anônimo
 
 Apoio Tecnológico Maker, atua no mercado de trabalho como Alpinista Industrial.
-
-* Whatsapp: (47) 99264-8476 - (19) 98275-0005
-* E-mail: pu2one@gmail.com
