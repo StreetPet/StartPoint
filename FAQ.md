@@ -3,6 +3,12 @@ FAQ
 
 Abaixo apresento algumas perguntas que estão sendo feitas sobre o projeto. Você pode me enviar suas perguntas diretamente ou preferivelmente [clicar aqui](http://streetpet_sugestoes)
 
+## O que é o projeto?
+
+Visite o link: http://bit.ly/streetpet_web1, http://bit.ly/streetpet_faq e http://bit.ly/streetpet_sugestoes, e irá encontrar mais perguntas e respostas.
+
+Em resumo o projeto inicialmente é conceitual, visa dar a oportunidade ao pessoal se envolver numa causa e aplicar seus conhecimentos técnicos em Embarcados e IoT, desenvolvendo um sistema de alimentação (comedouro e bebedouro automatizado) e sanitização (aplicação de remédios por pulverização), Cadastro de cães de rua, histórico dos mesmos, cadastro de cuidadores, veterinários e ONGs envolvidas com cuidados de cães de rua.
+
 ## Qual Linguagem será usada?
 
 Não iremos restringir a linguagem, a quele que quiser criar ou recriar na linguagem que se sente a vontade basta criar um projeto no git e sitar nossa ORG como sendo a base do projeto, faremos um fork, e se você quiser seu projeto passa a ser editado apartir de nosso repositório.
