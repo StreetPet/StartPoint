@@ -9,6 +9,12 @@ Visite o link: http://bit.ly/streetpet_web1, http://bit.ly/streetpet_faq e http:
 
 Em resumo o projeto inicialmente é conceitual, visa dar a oportunidade ao pessoal se envolver numa causa e aplicar seus conhecimentos técnicos em Embarcados e IoT, desenvolvendo um sistema de alimentação (comedouro e bebedouro automatizado) e sanitização (aplicação de remédios por pulverização), Cadastro de cães de rua, histórico dos mesmos, cadastro de cuidadores, veterinários e ONGs envolvidas com cuidados de cães de rua.
 
+## Vai ter grupo no Whatsapp ou Facebook?
+
+Bem, eu não pretendia criar grupos, mas percebi que o pessoal está bastante acostumado a usar o Whatsapp e muitos, muitos mesmo não sabem usar o GitHub ou outro SocialCoding.
+
+Então vai ai o link do grupo no Whatsapp: [http://bit.ly/streetpet_zap](http://bit.ly/streetpet_zap)
+
 ## Quanto você vai me pagar para trabalhar para você?
 
 Antes de tudo o projeto não é meu e você não vai trabalhar para mim. 
