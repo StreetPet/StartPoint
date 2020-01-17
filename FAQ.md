@@ -49,6 +49,8 @@ O projeto não visa lucro diretamente, portanto para ser executado, cada envolvi
 
 ## Eu posso cobrar pelos meus serviços?
 
-Sim você pode, mas no projeto você deve trabalhar como voluntário, você pode até copiar o projeto se quiser, mas éticamente deve devolver ao projeto algum recurso em algum formato, seja conhecimento ajudando a resolver algum BUG, seja com projeto de alguma solução eletrica/eletrônica, ou até mesmo doando equipamentos e recursos financeiros.
+**Sim**, você pode, mas no projeto, você deve trabalhar como voluntário, você pode até copiar o projeto se quiser, mas éticamente deve devolver ao projeto algum recurso em algum formato, seja conhecimento ajudando a resolver algum BUG, seja com projeto de alguma solução eletrica/eletrônica, ou até mesmo doando equipamentos e recursos financeiros.
 
 Eu mesmo cobro de empresas e individuos para instalar pelo os comedouros, e consulorias em projetos, já das ONGs e Cuidadores faço alguns seviços como voluntário e outros negocio os custos.
+
+[Regras de monetização do nosso projeto](./monetizacao.md)
