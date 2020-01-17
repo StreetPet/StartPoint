@@ -18,6 +18,11 @@ Veja a história da [Cachorrinha clicando aqui](http://carlosdelfino.eti.br/proj
 
 [Separei neste link algumas perguntas do projeto](./FAQ.md).
 
+## Números do Projeto
+
+[Anotações, estatísticas e conclusões](./NUMEROS.md).
+
 ## Arquitetura do Sistema
 
 * [API](./API.md)
+* [Módulos](./MODULOS.md)
