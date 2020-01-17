@@ -34,3 +34,13 @@ Com o desenvolver do projeto pesquisas de identificação podem ser desenvolvida
 ## Posso usar o projeto no meu TCC, Dissertação ou Tese?
 
 Claro que pode, e pedimos que faça isso. Assim você pode nos  ajudar a tornar o projeto cada vez melhor.
+
+## Como você vai sustentar o projeto?
+
+O projeto não visa lucro diretamente, portanto para ser executado, cada envolvido terá que arcar com seus custos. Quando ouver uma demanda por terceiros, cada voluntário na região onde será implantado deverá negociar os custos envolvidos.
+
+## Eu posso cobrar pelos meus serviços?
+
+Sim você pode, mas no projeto você deve trabalhar como voluntário, você pode até copiar o projeto se quiser, mas éticamente deve devolver ao projeto algum recurso em algum formato, seja conhecimento ajudando a resolver algum BUG, seja com projeto de alguma solução eletrica/eletrônica, ou até mesmo doando equipamentos e recursos financeiros.
+
+Eu mesmo cobro de empresas e individuos para instalar pelo os comedouros, e consulorias em projetos, já das ONGs e Cuidadores faço alguns seviços como voluntário e outros negocio os custos.
