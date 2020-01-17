@@ -15,6 +15,10 @@ Bem, eu não pretendia criar grupos, mas percebi que o pessoal está bastante ac
 
 Então vai ai o link do grupo no Whatsapp: [http://bit.ly/streetpet_zap](http://bit.ly/streetpet_zap)
 
+## Os repositórios dos projetos serão de sua propriedade?
+
+Não, cada um pode criar seu próprio repositório em sua conta ou organização e cita que é parte de nosso projeto, basta abrir um [issue](http://bit.ly/streetpet_sugestoes) informando que iniciou um módulo que é parte de nosso projeto, eu irei clona-lo na [Organização principal](http://bit.ly/streetpetorg) e como subtree no repositório principal StreetPet.
+
 ## Qual Linguagem será usada?
 
 Não iremos restringir a linguagem, a quele que quiser criar ou recriar na linguagem que se sente a vontade basta criar um projeto no git e sitar nossa ORG como sendo a base do projeto, faremos um fork, e se você quiser seu projeto passa a ser editado apartir de nosso repositório.
