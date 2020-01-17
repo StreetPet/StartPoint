@@ -20,7 +20,7 @@ Veja a história da [Cachorrinha clicando aqui](http://carlosdelfino.eti.br/proj
 
 ## Monetização do Projeto e com o Projeto
 
-[Regras de monetização do nosso projeto](./menetizacao.md)
+[Regras de monetização do nosso projeto](./monetizacao.md)
 
 ## Arquitetura do Sistema
 
