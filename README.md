@@ -14,6 +14,10 @@ A ideia é que o projeto seja replicado pelos participantes em sua região, usan
 
 Veja a história da [Cachorrinha clicando aqui](http://carlosdelfino.eti.br/projetos/StreetPet/).
 
+## Perguntas Frequentes sobre o Projeto
+
+[Separei neste link algumas perguntas do projeto](./FAQ.md).
+
 ## Arquitetura do Sistema
 
 * [API](./API.md)
