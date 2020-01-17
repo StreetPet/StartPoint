@@ -15,7 +15,7 @@ Antes de tudo o projeto não é meu e você não vai trabalhar para mim.
 
 Eu lancei uma semente e algumas pessoas do meu circulo social e profissional gostaram da ideia, então estou doando a comunidade a ideia para que ela seja replicada e executada, apenas estou gerenciando seu acontecimento. E claro fazendo minha parte para que tenha uma replica de tudo aqui na minha região como proponho para outros fazerem na suas regiões.
 
-**Você irá _ganhar_ muito trabalhando neste projeto, irá ganhar _muito conhecimento_, _muita experiência_**, e poderá até ganhar basta fazer seu plano de negocios do projeto e ver as [regras de monetização do nosso projeto](./menetizacao.md).
+**Você irá _ganhar_ muito trabalhando neste projeto, irá ganhar _muito conhecimento_, _muita experiência_**, e poderá até ganhar basta fazer seu plano de negocios do projeto e ver as [regras de monetização do nosso projeto](./monetizacao.md).
 
 ## Qual Linguagem será usada?
 
