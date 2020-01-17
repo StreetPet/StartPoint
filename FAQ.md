@@ -9,6 +9,14 @@ Visite o link: http://bit.ly/streetpet_web1, http://bit.ly/streetpet_faq e http:
 
 Em resumo o projeto inicialmente é conceitual, visa dar a oportunidade ao pessoal se envolver numa causa e aplicar seus conhecimentos técnicos em Embarcados e IoT, desenvolvendo um sistema de alimentação (comedouro e bebedouro automatizado) e sanitização (aplicação de remédios por pulverização), Cadastro de cães de rua, histórico dos mesmos, cadastro de cuidadores, veterinários e ONGs envolvidas com cuidados de cães de rua.
 
+## Quanto você vai me pagar para trabalhar para você?
+
+Antes de tudo o projeto não é meu e você não vai trabalhar para mim. 
+
+Eu lancei uma semente e algumas pessoas do meu circulo social e profissional gostaram da ideia, então estou doando a comunidade a ideia para que ela seja replicada e executada, apenas estou gerenciando seu acontecimento. E claro fazendo minha parte para que tenha uma replica de tudo aqui na minha região como proponho para outros fazerem na suas regiões.
+
+**Você irá _ganhar_ muito trabalhando neste projeto, irá ganhar _muito conhecimento_, _muita experiência_**, e poderá até ganhar basta fazer seu plano de negocios do projeto e ver as [regras de monetização do nosso projeto](./menetizacao.md).
+
 ## Qual Linguagem será usada?
 
 Não iremos restringir a linguagem, a quele que quiser criar ou recriar na linguagem que se sente a vontade basta criar um projeto no git e sitar nossa ORG como sendo a base do projeto, faremos um fork, e se você quiser seu projeto passa a ser editado apartir de nosso repositório.
