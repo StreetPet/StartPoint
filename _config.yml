@@ -1,5 +1,9 @@
 theme: jekyll-theme-merlot
 
+google:
+  analytics:
+      id: UA-156621148
+
 plugins:
  - jekyll-github-metadata
  - jekyll-feed
