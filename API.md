@@ -1,3 +1,8 @@
+---
+redirect_from: /api
+title: API
+---
+
 API - Application Programming Interface
 =======================================
 
