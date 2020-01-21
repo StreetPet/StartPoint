@@ -13,6 +13,8 @@ O Projeto pertence a todos nós, se você acredita que o projeto pode melhorar v
 
 ## Colaborando e Contribuindo
 
+Antes de tudo é interessante que tome conhecimento de nosso [código de conduta](./codigodeconduta)
+
 [Para colaborar com o projeto veja as instruções clicando aqui](./CONTRIBUTING)
 
 ## Mascote do Projeto
