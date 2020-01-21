@@ -29,3 +29,19 @@ Como inicialmente nosso sistema fica propost por @Carlos Delfino, o uso do Fireb
 ## Banco de Dados
 
 O Banco de dados usado será o oferecido pelo Firebase (Realtime Database), sendo o MongoDB uma alternativa off-line quando o Firebase não for aceitável, e o MySQL como segunda opção e finalmente o NoSQL (ou SQLlite) como armazenamento em casos de memória muito restrita.
+
+{% if site.google.analytics.id %} 
+<!-- google analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', '{{ site.google.analytics.id }}', '{%if site.google.analytics.domain %}{{ site.google.analytics.domain }}{% else %}auto{% endif %}');
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+</script>
+<!-- fim google analytics -->
+{% else %}
+<!-- sem google analytics -->
+{% endif %}
