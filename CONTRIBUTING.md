@@ -1,3 +1,9 @@
+---
+redirect_from: 
+ - /contribuindo/
+ - /colaborando/
+title: Colaborando com o Projeto
+---
 Como Participar
 ===============
 
