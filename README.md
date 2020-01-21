@@ -1,5 +1,5 @@
 Street Pet
-##########
+==========
 
 ![Mascote](./streetpet.jpg)
 ## Objetivo e Apresentação
