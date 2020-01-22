@@ -18,3 +18,19 @@ Sendo uma ideia boa, ela será convertida em projeto, assim você poderá ve-la 
 Em seguida na [seção projetos](http://bit.ly/streetpet_projetos) você pode ver se há alguma demanda ou mesmo gerar uma que deseje assumir a responsabilidade sobre ela ou pedir ajuda a terceiros em algo que está tendo dificuldades.
 
 Caso o texto acima não foi suficiente para entender como ajudar no projeto me adicione no Whatsapp e me peça ajuda, informe detalhadamente o que não entendeu e como deseja participar, ou se só deseja aprender, meu whatsapp é (85) 991257722.
+
+{% if site.google.analytics.id %} 
+<!-- google analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', '{{ site.google.analytics.id }}', '{%if site.google.analytics.domain %}{{ site.google.analytics.domain }}{% else %}auto{% endif %}');
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+</script>
+<!-- fim google analytics -->
+{% else %}
+<!-- sem google analytics -->
+{% endif %}
