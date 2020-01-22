@@ -47,7 +47,7 @@ Ainda é uma fase inicial e de planejamento não temos equipamentos ou softwares
 
 ------------------------------------
 
-|[Onde estão as cercas?](./images/onde_estao_as_cercas.jpg)
+![Onde estão as cercas?](./images/onde_estao_as_cercas.jpg)
 
 {% if site.google.analytics.id %} 
 <!-- google analytics -->
