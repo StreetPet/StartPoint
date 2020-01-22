@@ -15,6 +15,18 @@ Bem, eu não pretendia criar grupos, mas percebi que o pessoal está bastante ac
 
 Então vai ai o link do grupo no Whatsapp: [http://bit.ly/streetpet_zap](http://bit.ly/streetpet_zap)
 
+## Como será montado as equipes no Projeto?
+
+O Sistema StreetPet será dividido em Equipes, que poderão assumir um ou mais projetos, e qualquer um poderá participar delas ao nível de leitura do conteúdo, desde que não sejam dados sensíveis como senhas, códigos de licenças e dados armazenados. 
+
+Qualquer um poderá participar em mais de uma equipe, portanto não se preocupe por qual equipe começar, escolha uma e se integre.
+
+As Equipes estão listadas em: https://github.com/orgs/StreetPet/teams
+
+## Eu já tenho minha equipe de trabalho e queremos nos unir ao projeto
+
+Basta criar um issue em http://bit.ly/streetpet_sugestoes apresentando sua equipe e o que deseja contribuir no sistema, a lista de nomes e ids no Github, que a equipe será criada individualmente na Organização e poderá assim trabalhar em seus projetos integrados ao nosso.
+
 ## Os repositórios dos projetos serão de sua propriedade?
 
 Não, cada um pode criar seu próprio repositório em sua conta ou organização e cita que é parte de nosso projeto, basta abrir um [issue](http://bit.ly/streetpet_sugestoes) informando que iniciou um módulo que é parte de nosso projeto, eu irei clona-lo na [Organização principal](http://bit.ly/streetpetorg) e como subtree no repositório principal StreetPet.
