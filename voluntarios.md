@@ -21,3 +21,7 @@ Apoio tecnológico Maker
 ## Anônimo
 
 Apoio Tecnológico Maker, atua no mercado de trabalho como Alpinista Industrial.
+
+## Raquel - Veterinária
+
+Raquel veterinária, atuante quanto cuidados com animais abandonados, consultorias e doações de ração e remédios. Especificamente para nossos projeto.
