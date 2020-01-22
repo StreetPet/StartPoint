@@ -2,7 +2,7 @@ theme: jekyll-theme-merlot
 
 google:
   analytics:
-      id: UA-156621148
+      id: UA-156621148-1
 
 plugins:
  - jekyll-github-metadata
