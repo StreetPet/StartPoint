@@ -27,3 +27,17 @@ Eu já tive mais de uma dezena contatos sobre o projeto de forma direta via What
 ## Projetos
 
 Já são 3 projetos cadastrados, um para Identificação do animal, outro para o comedouro automátizado e o de sanitização que poderá ser dividido em dois.
+
+{% if site.google.analytics.id %} 
+<!-- google analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google.analytics.id }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ site.google.analytics.id }}');
+</script>
+<!-- fim google analytics -->
+{% else %}
+<!-- sem google analytics -->
+{% endif %}
