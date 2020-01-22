@@ -26,6 +26,10 @@ Apoio Tecnológico Maker, atua no mercado de trabalho como Alpinista Industrial.
 
 Raquel veterinária, atuante quanto cuidados com animais abandonados, consultorias e doações de ração e remédios. Especificamente para nossos projeto.
 
+## Sandro - Arduino Ceará
+
+Lider na [comunidade Arduino Ceará](http://arduinoceara.com, ministra cursos de robôtica educatíva, apoio com consultoria Maker, divulgação. 
+
 {% if site.google.analytics.id %} 
 <!-- google analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google.analytics.id }}"></script>
