@@ -26,9 +26,9 @@ O Projeto pertence a todos nós, se você acredita que o projeto pode melhorar v
 
 ## Colaborando e Contribuindo
 
-Antes de tudo é interessante que tome conhecimento de nosso [código de conduta](./codigodeconduta)
+Antes de tudo é interessante que tome conhecimento de nosso [código de conduta](./codigodeconduta), Para colaborar com o projeto veja as instruções [clicando aqui](./CONTRIBUTING), em seguida [leia o que está sendo sugerido](http://bit.ly/streetpet_sugestoes), se familiarize com a interface do GitHub e então contribua com seu conhecimento. você pode também me contactar diretamente via e-mail (demoro a responder) ou via whatsapp (+55 85) 99125-7722.
 
-[Para colaborar com o projeto veja as instruções clicando aqui](./CONTRIBUTING)
+[Clique aqui e veja a lista de voluntários](./voluntarios.md).
 
 ## Mascote do Projeto
 
