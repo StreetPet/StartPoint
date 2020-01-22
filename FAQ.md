@@ -1,7 +1,7 @@
 FAQ
 ===
 
-Abaixo apresento algumas perguntas que estão sendo feitas sobre o projeto. Você pode me enviar suas perguntas diretamente ou preferivelmente [clicar aqui](http://streetpet_sugestoes)
+Abaixo apresento um resumo das perguntas que estão sendo feitas sobre o projeto. Você pode ver mais perguntas e me enviar suas diretamente ou preferivelmente [na seção de sugestões e dúvidas!](http://streetpet_sugestoes).
 
 ## O que é o projeto?
 
