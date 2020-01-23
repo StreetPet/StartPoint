@@ -3,6 +3,13 @@ Street Pet
 
 ![Mascote](./streetpet.jpg)
 
+## Página Usuário Final
+
+Temos duas páginas que se destinam aos usuários finais:
+
+- PetFriendly -> http://bit.ly/streetpet_petfriendly
+- StreetPet -> http://bit.ly/streetpet_web_app
+
 ## Objetivo e Apresentação
 
 Um Sistema OpenHardware e OpenSource de Alimentação e tratamento de Cães e Gatos Abandonados, o **objetivo** é colecionar ideias e assim  **desenvolver um sistema que alimente e borrife remêdios** em cães e gatos catalogados e chipados que estejam em situação de abandono. O sistema também visa catalogar os Pets em situação de abandono, cadastrar ONGs e Cuidadores, e analisar o histórico de tais animais oferecendo dados para que sejam processados e analisados por especialistas no ramo de veterinária e zoonoses.
