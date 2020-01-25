@@ -1,3 +1,8 @@
+---
+redirect_from: /api
+title: API
+---
+
 API - Application Programming Interface
 =======================================
 
@@ -24,3 +29,17 @@ Como inicialmente nosso sistema fica propost por @Carlos Delfino, o uso do Fireb
 ## Banco de Dados
 
 O Banco de dados usado será o oferecido pelo Firebase (Realtime Database), sendo o MongoDB uma alternativa off-line quando o Firebase não for aceitável, e o MySQL como segunda opção e finalmente o NoSQL (ou SQLlite) como armazenamento em casos de memória muito restrita.
+
+{% if site.google.analytics.id %} 
+<!-- google analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google.analytics.id }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ site.google.analytics.id }}');
+</script>
+<!-- fim google analytics -->
+{% else %}
+<!-- sem google analytics -->
+{% endif %}

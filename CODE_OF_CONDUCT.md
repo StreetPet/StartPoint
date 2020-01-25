@@ -75,3 +75,17 @@ membros da liderança do projeto.
 
 Este Código de Conduta é adaptado da [Aliança do Colaborador] [página inicial], versão 1.4,
 disponível em https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+
+{% if site.google.analytics.id %} 
+<!-- google analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google.analytics.id }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ site.google.analytics.id }}');
+</script>
+<!-- fim google analytics -->
+{% else %}
+<!-- sem google analytics -->
+{% endif %}

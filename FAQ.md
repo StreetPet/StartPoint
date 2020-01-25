@@ -1,7 +1,7 @@
 FAQ
 ===
 
-Abaixo apresento algumas perguntas que estão sendo feitas sobre o projeto. Você pode me enviar suas perguntas diretamente ou preferivelmente [clicar aqui](http://streetpet_sugestoes)
+Abaixo apresento um resumo das perguntas que estão sendo feitas sobre o projeto. Você pode ver mais perguntas e me enviar suas diretamente ou preferivelmente [na seção de sugestões e dúvidas!](http://streetpet_sugestoes).
 
 ## O que é o projeto?
 
@@ -14,6 +14,18 @@ Em resumo o projeto inicialmente é conceitual, visa dar a oportunidade ao pesso
 Bem, eu não pretendia criar grupos, mas percebi que o pessoal está bastante acostumado a usar o Whatsapp e muitos, muitos mesmo não sabem usar o GitHub ou outro SocialCoding.
 
 Então vai ai o link do grupo no Whatsapp: [http://bit.ly/streetpet_zap](http://bit.ly/streetpet_zap)
+
+## Como será montado as equipes no Projeto?
+
+O Sistema StreetPet será dividido em Equipes, que poderão assumir um ou mais projetos, e qualquer um poderá participar delas ao nível de leitura do conteúdo, desde que não sejam dados sensíveis como senhas, códigos de licenças e dados armazenados. 
+
+Qualquer um poderá participar em mais de uma equipe, portanto não se preocupe por qual equipe começar, escolha uma e se integre.
+
+As Equipes estão listadas em: https://github.com/orgs/StreetPet/teams
+
+## Eu já tenho minha equipe de trabalho e queremos nos unir ao projeto
+
+Basta criar um issue em http://bit.ly/streetpet_sugestoes apresentando sua equipe e o que deseja contribuir no sistema, a lista de nomes e ids no Github, que a equipe será criada individualmente na Organização e poderá assim trabalhar em seus projetos integrados ao nosso.
 
 ## Os repositórios dos projetos serão de sua propriedade?
 
@@ -80,3 +92,19 @@ Eu lancei uma semente e algumas pessoas do meu circulo social e profissional gos
 Eu mesmo cobro de empresas e individuos para instalar pelo os comedouros, e consulorias em projetos, já das ONGs e Cuidadores faço alguns seviços como voluntário e outros negocio os custos.
 
 [Regras de monetização do nosso projeto](./monetizacao.md)
+
+{% if site.google.analytics.id %} 
+<!-- google analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', '{{ site.google.analytics.id }}', '{%if site.google.analytics.domain %}{{ site.google.analytics.domain }}{% else %}auto{% endif %}');
+ga('require', 'displayfeatures');
+ga('send', 'pageview');
+</script>
+<!-- fim google analytics -->
+{% else %}
+<!-- sem google analytics -->
+{% endif %}

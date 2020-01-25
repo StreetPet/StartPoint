@@ -1,5 +1,11 @@
 theme: jekyll-theme-merlot
 
+google:
+  analytics:
+      id: UA-156621148-1
+  tags: 
+      id: GTM-NJGNRHD
+
 plugins:
  - jekyll-github-metadata
  - jekyll-feed
