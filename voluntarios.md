@@ -30,6 +30,20 @@ Raquel veterinária, atuante quanto cuidados com animais abandonados, consultori
 
 Lider na [comunidade Arduino Ceará](http://arduinoceara.com, ministra cursos de robôtica educatíva, apoio com consultoria Maker, divulgação. 
 
+# Voluntários Chegando
+
+## Melghar 
+
+WebDesigner
+
+https://github.com/MelgharSousa
+
+## Pacman
+
+Desenvolvedor
+
+https://github.com/pacman2020
+
 {% if site.google.analytics.id %} 
 <!-- google analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google.analytics.id }}"></script>
