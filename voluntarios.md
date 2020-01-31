@@ -44,6 +44,12 @@ Desenvolvedor
 
 https://github.com/pacman2020
 
+## Davidson Silva
+
+Idealizador e desenvolvedor do projeto MyPets, que está sendo agregado pelo projeto StreetPet.
+
+https://github.com/davidsonbrsilva/mypets/wiki/History
+
 {% if site.google.analytics.id %} 
 <!-- google analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google.analytics.id }}"></script>
