@@ -30,6 +30,10 @@ Antes de tudo é interessante que tome conhecimento de nosso [código de conduta
 
 [Clique aqui e veja a lista de voluntários](./voluntarios.md).
 
+## Regulamento e Sugestões de comportamento
+
+[Neste link, você pode encontrar o regulamento e sugestões de comportamento no projeto](./Regulamento.md)
+
 ## Mascote do Projeto
 
 Veja a história da [Cachorrinha clicando aqui](http://carlosdelfino.eti.br/projetos/StreetPet/).
