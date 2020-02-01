@@ -32,7 +32,7 @@ Antes de tudo é interessante que tome conhecimento de nosso [código de conduta
 
 ## Regulamento e Sugestões de comportamento
 
-[Neste link, você pode encontrar o regulamento e sugestões de comportamento no projeto](./Regulamento.md)
+[Neste link, você pode encontrar o regulamento e sugestões de comportamento no projeto](./regulamento.md)
 
 ## Mascote do Projeto
 
