@@ -26,7 +26,7 @@ A API e a distribuição oficial de APPs será centradano [Firebase da Google](h
 
 ## Colaborando e Contribuindo
 
-Antes de tudo é interessante que tome conhecimento de nosso [código de conduta](./codigodeconduta), Para colaborar com o projeto veja as instruções [clicando aqui](./CONTRIBUTING), em seguida [leia o que está sendo sugerido](http://bit.ly/streetpet_sugestoes), se familiarize com a interface do GitHub e então contribua com seu conhecimento. você pode também me contactar diretamente via e-mail (demoro a responder) ou via whatsapp (+55 85) 99125-7722.
+Antes de tudo é interessante que tome conhecimento de nosso [código de conduta](./codigodeconduta), Para colaborar com o projeto veja as instruções [clicando aqui](./CONTRIBUTING.md), em seguida [leia o que está sendo sugerido](http://bit.ly/streetpet_sugestoes), se familiarize com a interface do GitHub e então contribua com seu conhecimento. você pode também me contactar diretamente via e-mail (demoro a responder) ou via whatsapp (+55 85) 99125-7722.
 
 [Clique aqui e veja a lista de voluntários](./voluntarios.md).
 
