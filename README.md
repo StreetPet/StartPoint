@@ -4,7 +4,7 @@ Street Pet
 ![Mascote](./streetpet.jpg)
 
 **ATENÇÃO**
-O projeto já está em desenvolvimento no link: https:/github.com/StreetPet, evite usar este repositório, ele é mantido por questões histórias e de referência aos que estão chegando.
+O projeto já está em desenvolvimento no link: https:/github.com/StreetPet, e este repositório agora é chamado [StartPoint](https://github.com/StreetPet/StartPoint).
 {: .warning }
 
 ## Página Usuário Final
