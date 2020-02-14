@@ -3,7 +3,7 @@ theme: jekyll-theme-merlot
 title: Street Pet
 email: streetpet@carlosdelfino.eti.br
 description: > # this means to ignore newlines until "baseurl:"
-Um Sistema OpenHardware e OpenSource de Alimentação e tratamento de Cães e Gatos Abandonados, o objetivo é colecionar ideias e assim desenvolver um sistema que alimente e borrife remêdios em cães e gatos catalogados e chipados que estejam em situação de abandono. O sistema também visa catalogar os Pets em situação de abandono, cadastrar ONGs e Cuidadores, e analisar o histórico de tais animais oferecendo dados para que sejam processados e analisados por especialistas no ramo de veterinária e zoonoses.
+    Um Sistema OpenHardware e OpenSource de Alimentação e tratamento de Cães e Gatos Abandonados, o objetivo é colecionar ideias e assim desenvolver um sistema que alimente e borrife remêdios em cães e gatos catalogados e chipados que estejam em situação de abandono. O sistema também visa catalogar os Pets em situação de abandono, cadastrar ONGs e Cuidadores, e analisar o histórico de tais animais oferecendo dados para que sejam processados e analisados por especialistas no ramo de veterinária e zoonoses.
 
 tags: Pet, Street, Adoção, Doenças, Cadastro, Apoio, Doações, Voluntário, OpenSource, OpenHardware, Analise, Coleta de Dados, OpenCV, NativeScript, JavaScript, TypeScript, Angular
 
@@ -26,10 +26,10 @@ plugins:
  - jekyll-seo-tag
  - jekyll-archives
  - jekyll-jupyter-notebook
+ - jekyll-menus
  - kramdown
  - liquid
  - rouge
- - pygments
  - jemoji
  - sass
  - safe_yaml
