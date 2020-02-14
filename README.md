@@ -3,6 +3,10 @@ Street Pet
 
 ![Mascote](./streetpet.jpg)
 
+**ATENÇÃO**
+O projeto já está em desenvolvimento no link: https:/github.com/StreetPet, evite usar este repositório, ele é mantido por questões histórias e de referência aos que estão chegando.
+{: .warning }
+
 ## Página Usuário Final
 
 Temos duas páginas que se destinam aos usuários finais:
@@ -25,6 +29,10 @@ A API e a distribuição oficial de APPs será centradano [Firebase da Google](h
 Antes de tudo é interessante que tome conhecimento de nosso [código de conduta](./codigodeconduta), Para colaborar com o projeto veja as instruções [clicando aqui](./CONTRIBUTING), em seguida [leia o que está sendo sugerido](http://bit.ly/streetpet_sugestoes), se familiarize com a interface do GitHub e então contribua com seu conhecimento. você pode também me contactar diretamente via e-mail (demoro a responder) ou via whatsapp (+55 85) 99125-7722.
 
 [Clique aqui e veja a lista de voluntários](./voluntarios.md).
+
+## Regulamento e Sugestões de comportamento
+
+[Neste link, você pode encontrar o regulamento e sugestões de comportamento no projeto](./regulamento.md)
 
 ## Mascote do Projeto
 
