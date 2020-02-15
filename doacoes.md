@@ -1,5 +1,7 @@
-Doações para o projeto
-======================
+---
+layout: default
+title: Doações para o projeto
+---
 
 Não Doe Dinheiro pra o Projeto, faremos as caminhas de arrecadações por ferramentas apropriadas.
 

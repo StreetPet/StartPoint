@@ -1,5 +1,7 @@
-Regulamento para Participação do Projeto
-========================================
+---
+layout: default
+title: Regulamento para Participação do Projeto
+---
 
 O Projeto precisa de algumas regras, e estas serão definidas conforme for identificando comportamentos que não sejam posítivos para o crscimento do projeto.
 

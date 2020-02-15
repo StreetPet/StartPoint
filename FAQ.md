@@ -1,7 +1,13 @@
-FAQ
-===
+---
+layout: default
+title: FAQ
+---
 
 Abaixo apresento um resumo das perguntas que estão sendo feitas sobre o projeto. Você pode ver mais perguntas e me enviar suas diretamente ou preferivelmente [na seção de sugestões e dúvidas!](http://streetpet_sugestoes).
+
+## A seção Issues sumiu.
+
+Não é que a seção Issues sumiu, é que o projeto foi transferido para a organização [http://github.com/StreetPet](http:/github.com/StreetPet) e já está usando todos os recursos que o repositório por organização nos oferece. Assim o antigo repositório foi renomeado e se tornou o [StartPoint](https://streetpet.github.io/StartPoint), provavelmente o local que você está lendo este FAQ.
 
 ## O que é o projeto?
 

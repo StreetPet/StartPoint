@@ -1,10 +1,13 @@
-Street Pet
-==========
+---
+layout: default
+title: Street Pet
+---
 
 ![Mascote](./streetpet.jpg)
 
 **ATENÇÃO**
 O projeto já está em desenvolvimento no link: https:/github.com/StreetPet, evite usar este repositório, ele é mantido por questões histórias e de referência aos que estão chegando.
+{: .warning }
 
 ## Página Usuário Final
 
@@ -27,11 +30,11 @@ A API e a distribuição oficial de APPs será centradano [Firebase da Google](h
 
 Antes de tudo é interessante que tome conhecimento de nosso [código de conduta](./codigodeconduta), Para colaborar com o projeto veja as instruções [clicando aqui](./CONTRIBUTING), em seguida [leia o que está sendo sugerido](http://bit.ly/streetpet_sugestoes), se familiarize com a interface do GitHub e então contribua com seu conhecimento. você pode também me contactar diretamente via e-mail (demoro a responder) ou via whatsapp (+55 85) 99125-7722.
 
-[Clique aqui e veja a lista de voluntários](./voluntarios.md).
+[Clique aqui e veja a lista de voluntários](./voluntarios).
 
 ## Regulamento e Sugestões de comportamento
 
-[Neste link, você pode encontrar o regulamento e sugestões de comportamento no projeto](./regulamento.md)
+[Neste link, você pode encontrar o regulamento e sugestões de comportamento no projeto](./regulamento)
 
 ## Mascote do Projeto
 
@@ -39,20 +42,20 @@ Veja a história da [Cachorrinha clicando aqui](http://carlosdelfino.eti.br/proj
 
 ## Perguntas Frequentes sobre o Projeto
 
-[Separei neste link algumas perguntas do projeto](./FAQ.md).
+[Separei neste link algumas perguntas do projeto](./FAQ).
 
 ## Números do Projeto
 
-[Anotações, estatísticas e conclusões](./numeros.md).
+[Anotações, estatísticas e conclusões](./numeros).
 
 ## Monetização do Projeto e com o Projeto
 
-[Regras de monetização do nosso projeto](./monetizacao.md)
+[Regras de monetização do nosso projeto](./monetizacao)
 
 ## Arquitetura do Sistema
 
-* [API](./API.md)
-* [Módulos](./modulos.md)
+* [API](./API)
+* [Módulos](./modulos)
 
 [![Borrifador Sugerido](motor-bomba-diafragma-30w-12v-25-ah-pulverizador-eletrico.jpg)](https://produto.mercadolivre.com.br/MLB-868267937-motor-bomba-diafragma-12v-22ah-80-psi-pulverizador-eletrico-_JM?quantity=1#reco_item_pos=2&reco_backend=machinalis-seller-items&reco_backend_type=low_level&reco_client=vip-seller_items-above&reco_id=5875c740-a0b0-4bf1-a229-980914c14690)
 

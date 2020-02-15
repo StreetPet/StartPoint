@@ -1,5 +1,7 @@
-Regras de Monetização do projeto e com o projeto
-================================================
+---
+layout: default
+title: Regras de Monetização do projeto e com o projeto
+---
 
 Aguarde estamos trabalhand onisso, deixe sua sugestão neste link](http://bit.ly/streetpet_sugestoes).
 

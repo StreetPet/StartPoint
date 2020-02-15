@@ -1,9 +1,11 @@
-Módulos Conceituais do Projeto
-=============================
+---
+layout: default
+title: Módulos Conceituais do Projeto
+---
 
 ## API
 
-[Para detalhes da API click aqui.](./API.md)
+[Para detalhes da API click aqui.](./API)
 
 ## Comedouro Inicial
 

@@ -1,10 +1,9 @@
 ---
 redirect_from: 
  - /codigodeconduta/
-title: Código de Conduta
+layout: default
+title: Código de Conduta e Convivio dos Colaboradores
 ---
-Código de Conduta e Convivio dos Colaboradores
-==============================================
 
 ## Nosso compromisso
 

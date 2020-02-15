@@ -1,5 +1,6 @@
 ---
 redirect_from: /api
+layout: default
 title: API
 ---
 

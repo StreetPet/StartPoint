@@ -2,10 +2,9 @@
 redirect_from: 
  - /contribuindo/
  - /colaborando/
+layout: default
 title: Colaborando com o Projeto
 ---
-Como Participar
-===============
 
 Participar do projeto é muito fácil, você não precisa ser um especialista, nem mesmo um engenheiro, basta que faça com amor, com dedicação. Participante você irá interagir e receberá de seus amigos e outros membros do projeto o apoio para atingir seus objetivos.
 
@@ -18,6 +17,10 @@ Sendo uma ideia boa, ela será convertida em projeto, assim você poderá ve-la 
 Em seguida na [seção projetos](http://bit.ly/streetpet_projetos) você pode ver se há alguma demanda ou mesmo gerar uma que deseje assumir a responsabilidade sobre ela ou pedir ajuda a terceiros em algo que está tendo dificuldades.
 
 Caso o texto acima não foi suficiente para entender como ajudar no projeto me adicione no Whatsapp e me peça ajuda, informe detalhadamente o que não entendeu e como deseja participar, ou se só deseja aprender, meu whatsapp é (85) 991257722.
+
+## Mais detalhes Sobre a Estrutura do projeto
+
+Para detalhes sobre a estrutura do projeto, formatos dos arquivos, e todos os detalhes para que tenhamos um padrão e evitemos sobreescrever ou geramos commits desnecessários, viste a página [Estrutura do Projeto, clicando aqui](./estrutura)
 
 {% if site.google.analytics.id %} 
 <!-- google analytics -->

@@ -1,9 +1,9 @@
 ---
 redirect_from: 
   - /estatistica/
+layout: default
+title: Alguns números do projeto
 ---
-Alguns números do projeto
-=========================
 
 É muito cedo para falarmos em números do projeto. Olhando por fora o projeto pode parecer parado e esvaziado, porém já temos alguns números e isso já nos ajuda a perceber algumas coisas relevantes e termos a certeza da importância do projeto.
 

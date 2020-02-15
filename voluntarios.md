@@ -1,5 +1,7 @@
-Voluntários no Projeto
-======================
+---
+layout: default
+title: Voluntários no Projeto
+---
 
 ## Carlos Delfino
 
