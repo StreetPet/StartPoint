@@ -33,3 +33,10 @@ plugins:
  - jemoji
  - sass
  - safe_yaml
+
+ exclude:
+  - README.md
+  - LICENCE
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
