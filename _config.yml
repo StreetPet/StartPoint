@@ -1,3 +1,4 @@
+encoding: UTF-8
 theme: jekyll-theme-merlot
 
 title: Street Pet
@@ -14,27 +15,27 @@ google:
       id: GTM-NJGNRHD
 
 plugins:
- - jekyll-github-metadata
- - jekyll-feed
- - jekyll-gist
- - jekyll-paginate
- - jekyll-sitemap
- - jekyll-mentions
- - jekyll-coffeescript
- - jekyll-redirect-from
- - jekyll-sass-converter
- - jekyll-seo-tag
- - jekyll-archives
- - jekyll-jupyter-notebook
- - jekyll-menus
- - kramdown
- - liquid
- - rouge
- - jemoji
- - sass
- - safe_yaml
+  - jekyll-github-metadata
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-coffeescript
+  - jekyll-redirect-from
+  - jekyll-sass-converter
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-jupyter-notebook
+  - jekyll-menus
+  - kramdown
+  - liquid
+  - rouge
+  - jemoji
+  - sass
+  - safe_yaml
 
- exclude:
+exclude:
   - README.md
   - LICENCE
   - .gitignore
