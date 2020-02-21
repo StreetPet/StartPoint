@@ -1,5 +1,6 @@
 theme: jekyll-theme-merlot
 
+locale: pt_BR
 title: Street Pet
 email: streetpet@carlosdelfino.eti.br
 description: > # this means to ignore newlines until "baseurl:"
@@ -14,11 +15,16 @@ google:
       id: GTM-NJGNRHD
 
 plugins:
+ - kramdown
+ - liquid
+ - rouge
+ - jemoji
+ - sass
+ - safe_yaml
  - jekyll-github-metadata
  - jekyll-feed
  - jekyll-gist
  - jekyll-paginate
- - jekyll-sitemap
  - jekyll-mentions
  - jekyll-coffeescript
  - jekyll-redirect-from
@@ -27,12 +33,7 @@ plugins:
  - jekyll-archives
  - jekyll-jupyter-notebook
  - jekyll-menus
- - kramdown
- - liquid
- - rouge
- - jemoji
- - sass
- - safe_yaml
+ - jekyll-sitemap
 
  exclude:
   - README.md
